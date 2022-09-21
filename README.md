@@ -9,7 +9,7 @@
 
 ### The tools I use
 >    <i class="devicon-rails-plain colored"></i>
->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" />
+>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" width="20" height="20"/>
 
 >     return shell_exec("echo $input | $markdown_script");
 
