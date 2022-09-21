@@ -1,8 +1,8 @@
 ## Hello I'm Sabah
   ### Ruby On Rails Full Stack Developer
 
-  * 📫 How to reach me : sabahelmo_code@icloud.com
-  * or through my [Linkedin Profile](https://www.linkedin.com/in/sabah-e-a61047238/ "Linkedin Profile")
+  * 📫 If you want to reach out to me here's my email address : sabahelmo_code@icloud.com
+  * If you want to know more about me please see my [Linkedin Profile](https://www.linkedin.com/in/sabah-e-a61047238/ "Linkedin Profile") while I'm preparing my portfolio.
 
 ### --> 31/12/2022
 > 1.  Working as a Teacher in Le Wagon Bootcamp (teaching HTML, CSS, Bootstrap, Ruby On Rails and managing multiple projects from scratch)
