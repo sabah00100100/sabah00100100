@@ -1,11 +1,11 @@
 ## 👋 Hello I'm Sabah nice to meet you !
   * 📫 How to reach me : sabahelmo_code@icloud.com
-  * ### Ruby On Rails Full Stack Developer
-  * Check out my [Linkedin Profile](https://www.linkedin.com/in/sabah-e-a61047238/ "Linkedin Profile")
+  ### Ruby On Rails Full Stack Developer
+  Check out my [Linkedin Profile](https://www.linkedin.com/in/sabah-e-a61047238/ "Linkedin Profile")
 
 ### --> 31/12
-> 1.  Studying Digital Strategy at EDHEC business school and participanting in a coding+business challenge.
-> 2.  Working as a Teacher in Le Wagon Bootcamp (teaching HTML, CSS, Bootstrap, Ruby On Rails and managing multiple projects from scratch)
+> 1.  Working as a Teacher in Le Wagon Bootcamp (teaching HTML, CSS, Bootstrap, Ruby On Rails and managing multiple projects from scratch)
+> 2.  Studying Digital Strategy at EDHEC business school and participanting in a coding+business challenge.
 
 ### The tools I use
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="55" height="55"/>&nbsp;
