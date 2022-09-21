@@ -8,6 +8,7 @@
 > 2.  Working as a Teacher in Le Wagon Bootcamp (teaching HTML, CSS, Bootstrap, Ruby On Rails and managing multiple projects from scratch)
 
 ### The tools I use
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="55" height="55"/>&nbsp;
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55"/>&nbsp;
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>&nbsp;
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="55" height="55" />&nbsp;
