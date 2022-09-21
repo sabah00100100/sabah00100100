@@ -1,4 +1,4 @@
-## 👋 Hello I'm Sabah nice to meet you !
+## I'm Sabah nice to meet you
   ### Ruby On Rails Full Stack Developer
 
   * 📫 How to reach me : sabahelmo_code@icloud.com
