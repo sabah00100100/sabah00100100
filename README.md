@@ -1,6 +1,6 @@
 ## 👋 Hello I'm Sabah nice to meet you !
   * 📫 How to reach me : sabahelmo_code@icloud.com
-  * Studying Coputer Science in the South of France
+  * Ruby On Rails Full Stack Developer
   * Check out my [Linkedin Profile](https://www.linkedin.com/in/sabah-e-a61047238/ "Linkedin Profile")
 
 ### --> 31/12
