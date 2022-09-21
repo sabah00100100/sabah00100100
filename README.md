@@ -1,4 +1,4 @@
-## Sabah is my Name 00100100 is the dollar sign in binary
+## Sabah is my Name
   ### Ruby On Rails Full Stack Developer
 
   * 📫 How to reach me : sabahelmo_code@icloud.com
