@@ -1,8 +1,7 @@
 ## Hello I'm Sabah
   ### Ruby On Rails Full Stack Developer
 
-  * 📫 If you want to reach out to me here's my email address : sabahelmo_code@icloud.com
-  * If you want to know more about me please see my [Linkedin Profile](https://www.linkedin.com/in/sabah-e-a61047238/ "Linkedin Profile") while I'm preparing my portfolio.
+  * If you want to reach me here's my linkedin [Linkedin Profile](https://www.linkedin.com/in/sabah-e-a61047238/ "Linkedin Profile").
 
 ### --> 31/12/2022
 > 1.  Hackathons.
