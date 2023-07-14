@@ -1,12 +1,9 @@
 ## Hello I'm Sabah
   ### Ruby On Rails Full Stack Developer
+  Learning system administration at 42 School in Nice.
 
   * If you want to reach me here's my linkedin [Linkedin Profile](https://www.linkedin.com/in/sabah-e-a61047238/ "Linkedin Profile").
 
-### --> 31/12/2022
-> 1.  Hackathons.
-> 2.  Studying C programming at 42 School
-> 3.  Building personal projects alongside peers that have completed Le Wagon bootcamp in Web Developement and Data science. During the bootcamp I understood that projects I wanted to see come to life would be possible only with the help of data scientists, so I started a Web Development & Data Science collective of juniors wanting to keep developing their skills in hopes of enriching their portfolio and work on unique and challenging projects.⌚️
 
 ### The tools I use
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="55" height="55"/>&nbsp;
